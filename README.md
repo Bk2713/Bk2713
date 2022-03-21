@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bala Kumar V
 - 👀 I’m interested in Gaming...
-- 🌱 I’m currently learning Core java,Manual and automation testing,
+- 🌱 I’m currently learning Java ,Manual and Automation testing ,Selenium Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG ID - im__perfect____
 
